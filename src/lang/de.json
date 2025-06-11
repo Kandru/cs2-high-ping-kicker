@@ -1,0 +1,9 @@
+{
+    "core.debugprint": "[HighPingKicker][DEBUG]: {message}",
+    "core.config": "[HighPingKicker] Konfiguration geladen",
+    "admin.unknown_command": "[HighPingKicker] Unbekannter Befehl: {command}",
+    "admin.reload": "[HighPingKicker] Konfiguration neu geladen",
+    "player.warning": "[HighPingKicker] {red}Warnung: {default}Dein Ping ist zu hoch! ({green}{ping}{default}ms, Überprüfung {green}{number}{default} von {green}{total}{default})",
+    "message.kick": "[HighPingKicker] {green}{player} {default}wurde gekickt ({green}{ping}{default}ms)",
+    "message.spectate": "[HighPingKicker] {green}{player} {default}ist jetzt im Zuschauer-Modus ({green}{ping}{default}ms)"
+}
